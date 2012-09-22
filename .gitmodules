@@ -4,3 +4,6 @@
 [submodule "ibus-bogo-python"]
 	path = ibus-bogo-python
 	url = git://github.com/BoGoEngine/ibus-bogo-python.git
+[submodule "docs"]
+	path = docs
+	url = git://github.com/BoGoEngine/docs.git
